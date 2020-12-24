@@ -1046,7 +1046,7 @@ input:focus {
 }
 
 .single-blog-post .post-thumbnail img {
-    width: 100%;
+    width: 80%;
 }
 
 .single-blog-post .post-content {
@@ -1059,7 +1059,7 @@ input:focus {
     color: #ffffff;
     margin-bottom: 5px;
     display: block;
-    font-size: 16px;
+    font-size: 10px;
     font-weight: 700;
 }
 
@@ -1145,7 +1145,7 @@ input:focus {
     color: #ffffff;
     margin-bottom: 10px;
     display: block;
-    font-weight: 700;
+    font-weight: 20;
     font-size: 2px;
     line-height: 1.5;
 }
